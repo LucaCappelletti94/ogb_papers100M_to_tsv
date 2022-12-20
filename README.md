@@ -1,6 +1,7 @@
 # OGB papers100M to tsv
 Convert the OGB's papers100M custom data format to TSVs.
 
+[CURRENTLY UPLOADING DATA ON INTERNET ARCHIVE, I HAVE BAD INTERNET]
 
 ## What is OGB
 The [Open Graph Benchmark (OGB)](https://github.com/snap-stanford/ogb) is a collection of datasets designed to facilitate research in graph machine learning (ML). It includes a diverse range of datasets covering a variety of domains, including social and information networks, biological networks, molecular graphs, source code abstract syntax trees (ASTs), and knowledge graphs. The OGB project provides a unified evaluation protocol with meaningful application-specific data splits and evaluation metrics for each dataset, as well as benchmark experiments to test the scalability and generalization of different approaches to graph ML. In addition, OGB includes an automated end-to-end pipeline for graph ML that simplifies and standardizes the process of data loading, experimental setup, and model evaluation.
